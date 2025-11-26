@@ -1,4 +1,4 @@
-# Stockbit QA Technical Test - Task 4: Virtual Trading Test Cases (Final)
+# Stockbit QA Technical Test - Task 4: Virtual Trading Test Cases
 
 **Feature Under Test:** Virtual Trading Simulation (IDX Market)  
 **Platform Chosen:** iOS App  
