@@ -24,7 +24,7 @@ When a user attempts to search for a stock symbol in the "Add Symbol" screen and
 
 ### Expected Result
 
-The search results area should display a clear and helpful message, such as: **"No results found for 'NOTHING'."** (Or the Indonesian equivalent, "Tidak ada hasil yang ditemukan").
+The search results area should display a clear and helpful message, such as: **"No results found for 'NOTHING'."** 
 
 ### Actual Result (The Bug)
 
