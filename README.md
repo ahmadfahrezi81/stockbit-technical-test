@@ -1,16 +1,16 @@
-# 🌟 QA Engineer Technical Test Submission
+# QA Engineer Technical Test Submission
 
 This repository serves as the central submission hub for the **Stockbit/Bibit QA Engineer Technical Test**. It contains the deliverables for **Tasks 3 and 4**, as well as links to the separate repositories created for the automation tests (**Tasks 1 and 2**).
 
 ---
 
-## 🛠️ Project Setup and Requirements
+## Project Setup and Requirements
 
 Each repository includes a complete README documenting the project setup process, required tools, and instructions for running the tests.
 
 ---
 
-## 📱 Task 1: Android Automation Test
+## Task 1: Android Automation Test
 
 This project automates the **Demo Application**, focusing on meaningful and valuable test scenarios.
 
@@ -25,7 +25,7 @@ This project automates the **Demo Application**, focusing on meaningful and valu
 
 ---
 
-## 💻 Task 2: API Automation Test
+## Task 2: API Automation Test
 
 This project automates the **FakerAPI**, emphasizing structured, valuable API test scenarios.
 
@@ -40,7 +40,7 @@ This project automates the **FakerAPI**, emphasizing structured, valuable API te
 
 ---
 
-## 🐞 Task 3: Stockbit App Exploration – Bug / Bad Journey Report
+## Task 3: Stockbit App Exploration – Bug / Bad Journey Report
 
 This report documents bugs and suboptimal user journeys identified in the Stockbit app. The findings are written to be clear, concise, and easy to understand.
 
@@ -53,7 +53,7 @@ This report documents bugs and suboptimal user journeys identified in the Stockb
 
 ---
 
-## 📝 Task 4: Virtual Trading Test Cases
+## Task 4: Virtual Trading Test Cases
 
 This document provides comprehensive, structured, and well-organized test scenarios for the **Virtual Trading** feature.
 
@@ -61,7 +61,7 @@ This document provides comprehensive, structured, and well-organized test scenar
 
 ---
 
-## 🎬 Evidence of Test Execution
+## Evidence of Test Execution
 
 As required, the test execution has been recorded and documented.
 
