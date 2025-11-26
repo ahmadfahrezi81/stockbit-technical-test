@@ -25,11 +25,17 @@ As required, I have documented the project setup process, tools, and application
 
 ## 🐞 Task 3: Explore Stockbit App - Bug/Bad Journey Report
 
-[Insert a clear report here, or a link to a separate PDF/Markdown file in this repo.]
+📄 **[View Bug Report](TASK_3_Bug_Report.md)**
+
+This report contains detailed bug reports for issues discovered in the Stockbit iOS app, including:
+- SB-BUG-001: "Add Symbol" Search Fails to Display "No Results Found" Message
+- SB-BUG-002: "Add Symbol" Search is Case-Sensitive and Fails for Partial/Capitalized Symbols
 
 ## 📝 Task 4: Virtual Trading Test Cases
 
-[Insert your structured test cases here, or a link to a separate file in this repo.]
+📄 **[View Test Cases](TASK_4_Virtual_Trading_Test_Cases.md)**
+
+This document contains comprehensive test cases for the Virtual Trading feature in the Stockbit app.
 
 ---
 
